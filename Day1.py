@@ -49,10 +49,8 @@ name=bool(name)
 print(name)
 
 #use input
-
 name=input("what is your name?")
 age=input("what is your age?")
-
 age=23
 age=int(age)
 age+=1
@@ -75,8 +73,6 @@ animal=input("enter animal")
 adj1=input("how it is")
 verb=input("what it is doing")
 noun=input("enter suitable noun")
-
-
 print(f"i went to {animal} park")
 print(f"i saw {adj1} monkey")
 print(f"it is {verb} ")
